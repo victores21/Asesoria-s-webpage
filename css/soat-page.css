@@ -1,0 +1,25 @@
+#banner-soat-page{
+    padding-top: 8rem;
+    padding-bottom: 8rem; 
+    background: url(../img/soat-slider.jpg);
+    background-size: 100%;
+    background-position-y: 40%;
+}
+#container-soat p{
+    font-size: 1rem;
+}
+#container-soat li{
+    font-size: 1rem;
+    padding-top: 10px;
+    
+}
+#row-list{
+    border:2px solid #ffc107;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+.list-group-item{
+    background: #ffc107 !important;
+    border-color:#fff !important;
+}
