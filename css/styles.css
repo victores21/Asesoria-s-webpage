@@ -1,9 +1,12 @@
 @import url("body.css");
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 *{
     padding: 0px;
     margin:0px;
     box-sizing: border-box;
-   
+    font-family: 'Poppins', sans-serif;
+
 }
 body{
     background: salmon;
@@ -24,5 +27,5 @@ nav{
     color:#000;
 }
 .navbar-toggler-icon{
-    background:#dbb406 !important;
+    background:#ffc107 !important;
 }
