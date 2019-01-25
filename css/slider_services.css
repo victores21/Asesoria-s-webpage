@@ -1,0 +1,18 @@
+#container-slider-services{
+    background: #ffc107;
+    padding: 5rem;
+}
+#btn_slider_servicios{
+    background: none ;
+    font-size: 1.5rem;
+    border:3px solid #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    color:#FFF;
+    cursor: pointer;
+}
+#btn_slider_servicios:hover{
+    background: #fff;
+    color:#111;
+    transition: 0.5s all ease;
+}
