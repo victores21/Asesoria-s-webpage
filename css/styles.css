@@ -16,6 +16,7 @@
 
 nav{
     padding-left: 40px;
+    z-index: 999;
 }
 .hm-gradient {
     background-image: linear-gradient(to top, #912436 0%, #6f8b06 99%, #0f3875 100%);
