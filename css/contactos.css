@@ -1,0 +1,33 @@
+.col-pequeno-contactos{
+    height: 400px;
+}
+.minh-100 {
+    height: 40vh;
+  }
+.title-contact{
+    font-size: 2rem;
+}
+.description{
+    font-size: 1.1rem;
+}
+.bg-ubicacion{
+/*    background-color: #ffc107;*/  
+    background: url(../img/ubicanos.jpg) 50% no-repeat;
+    width: 100%;
+    color:#fff;
+    border:1px solid #FFF;
+}
+.bg-llamanos{
+    background: url(../img/llamar.jpg) center 100%;
+    border:1px solid #FFF;
+}
+.bg-correo{
+    background: url(../img/email.jpg);
+    border: 1px solid #fff;
+}
+.bg-correo a{
+    color:#fff;
+}
+.bg-correo a:hover{
+    color:#ffc107;
+}
