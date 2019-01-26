@@ -13,6 +13,7 @@
 }
 #btn_slider_servicios:hover{
     background: #fff;
-    color:#111;
     transition: 0.5s all ease;
+    color:#111;
+    text-decoration: none;
 }
