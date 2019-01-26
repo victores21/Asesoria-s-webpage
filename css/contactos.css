@@ -31,3 +31,10 @@
 .bg-correo a:hover{
     color:#ffc107;
 }
+
+
+@media (max-width:400px){
+    .correo-text a{
+        font-size: 0.7rem;
+    }
+}

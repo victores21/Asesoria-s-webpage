@@ -52,4 +52,9 @@ nav{
     nav{
         padding-left: 0 !important;
     }
+    
+        .bg-correo a{
+            font-size: 0.7rem !important;
+        }
+    
 }
