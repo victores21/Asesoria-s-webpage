@@ -15,15 +15,15 @@
     background: url(../img/ubicanos.jpg) 50% no-repeat;
     width: 100%;
     color:#fff;
-    border:1px solid #FFF;
+    border: 1px solid #0187cf;
 }
 .bg-llamanos{
     background: url(../img/llamar.jpg) center 100%;
-    border:1px solid #FFF;
+    border: 1px solid #0187cf;
 }
 .bg-correo{
     background: url(../img/email.jpg);
-    border: 1px solid #fff;
+    border: 1px solid #0187cf;
 }
 .bg-correo a{
     color:#fff;

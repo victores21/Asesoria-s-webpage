@@ -3,7 +3,9 @@
     padding-bottom: 8rem; 
     background: url(http://navarraconsultora.com/wp-content/uploads/2018/01/asesoria-fiscal-laboral-pamplona-min-1.jpg) fixed;
 }
-
+#container-services-total{
+    color:#fff;
+}
 .icon-services-box{
     font-size: 3rem;
     color:#ffc107;

@@ -1,5 +1,10 @@
 .fondo1{
-    background: #f4f8ff;
+    background: #0187cf;
+    color:#FFF;
+}
+.fondo2{
+    background: #0078b7;
+    color:#FFF;
 }
 .col-grande{
     padding-top: 8rem;
