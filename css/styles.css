@@ -21,7 +21,7 @@ body{
 nav{
     padding-left: 40px;
     z-index: 999;
-    background: #0187cf;
+    background: #0078b7;
 }
 .hm-gradient {
     background-image: linear-gradient(to top, #912436 0%, #6f8b06 99%, #0f3875 100%);
@@ -65,6 +65,9 @@ nav{
 }
 .navbar .dropdown-menu a{
     font-weight: 400;
+}
+.bg-slider{
+    background: #0078b7;
 }
 
 @media (max-width:500px){
