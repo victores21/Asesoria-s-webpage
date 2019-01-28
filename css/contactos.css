@@ -1,3 +1,8 @@
+#banner-contact-page{
+    padding-top: 8rem;
+    padding-bottom: 8rem; 
+    background: url(/img/cotnactanos.jpg) no-repeat fixed;
+}
 .col-pequeno-contactos{
     height: 400px;
 }
