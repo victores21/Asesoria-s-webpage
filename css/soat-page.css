@@ -1,7 +1,7 @@
 #banner-soat-page{
     padding-top: 8rem;
     padding-bottom: 8rem; 
-    background: url(../img/soat-slider.jpg) no-repeat;
+    background: url(../img/soat-slider.jpg) no-repeat fixed;
     background-size: 100%;
     background-position-y: 40%;
 }

@@ -1,7 +1,7 @@
 #banner-services-page{
     padding-top: 8rem;
     padding-bottom: 8rem; 
-    background: url(http://navarraconsultora.com/wp-content/uploads/2018/01/asesoria-fiscal-laboral-pamplona-min-1.jpg) fixed;
+    background: url(../img/servicios.jpg)no-repeat fixed;
 }
 #container-services-total{
     color:#fff;
